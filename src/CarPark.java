@@ -6,6 +6,7 @@ public class CarPark {
 
 	public CarPark() {
 		myCarPark = new ArrayList<>();
+		// a comment here
 	}
 
 	public int getNumberOfVIPSpacesFree() {
